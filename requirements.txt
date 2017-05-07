@@ -28,4 +28,3 @@ uritemplate==3.0.0
 uritemplate.py==3.0.2
 Werkzeug==0.12.1
 wrapt==1.10.10
-yelp==1.0.2
